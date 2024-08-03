@@ -12,6 +12,7 @@ let unChiffre = 24;
 unChiffre = 22;
 
 let chaine = "Je suis l'une chaine de caractères";
+// salut 
 
 let nouvelleChaine =
   "Chaine précédente : " + chaine + ". Voila c'etait le contenu";
